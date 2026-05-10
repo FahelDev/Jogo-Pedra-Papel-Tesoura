@@ -1,4 +1,4 @@
-# Jogo-Pedra-Papel-Tesoura
+# Jogo Pedra Papel Tesoura
 Projeto simples desenvolvido em Java com o objetivo de praticar conceitos básicos de programação, lógica condicional, entrada de dados e geração de números aleatórios.
 
 O jogo funciona no terminal/console e permite que o usuário jogue Pedra, Papel e Tesoura contra o computador. 🪨📄✂️
